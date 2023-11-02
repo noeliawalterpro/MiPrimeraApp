@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.MiPrimeraApp" >
         <activity
+            android:name="com.noeliawalterpro.miprimeraapp.EndActivity"
+            android:exported="false" />
+        <activity
             android:name="com.noeliawalterpro.miprimeraapp.MainActivity"
             android:exported="true" >
             <intent-filter>

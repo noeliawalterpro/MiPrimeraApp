@@ -2917,7 +2917,7 @@ int id bounce 0x7f08005e
 int id bounceBoth 0x7f08005f
 int id bounceEnd 0x7f080060
 int id bounceStart 0x7f080061
-int id button 0x7f080062
+int id btn_end 0x7f0801f5
 int id buttonPanel 0x7f080063
 int id cache_measures 0x7f080064
 int id callMeasure 0x7f080065
@@ -3425,6 +3425,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_end 0x7f0b006a
 int layout activity_main 0x7f0b001c
 int layout custom_dialog 0x7f0b001d
 int layout design_bottom_navigation_item 0x7f0b001e

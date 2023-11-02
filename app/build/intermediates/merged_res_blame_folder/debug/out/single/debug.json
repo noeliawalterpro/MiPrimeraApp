@@ -12,6 +12,10 @@
         "source": "C:\\Users\\noeli\\.gradle\\daemon\\8.0\\com.noeliawalterpro.miprimeraapp-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "com.noeliawalterpro.miprimeraapp-merged_res-29:/layout_activity_end.xml.flat",
+        "source": "com.noeliawalterpro.miprimeraapp-main-31:/layout/activity_end.xml"
+    },
+    {
         "merged": "C:\\Users\\noeli\\.gradle\\daemon\\8.0\\com.noeliawalterpro.miprimeraapp-merged_res-29:\\drawable_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\noeli\\.gradle\\daemon\\8.0\\com.noeliawalterpro.miprimeraapp-main-31:\\drawable\\ic_launcher_foreground.xml"
     },
@@ -22,10 +26,6 @@
     {
         "merged": "C:\\Users\\noeli\\.gradle\\daemon\\8.0\\com.noeliawalterpro.miprimeraapp-merged_res-29:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\noeli\\.gradle\\daemon\\8.0\\com.noeliawalterpro.miprimeraapp-main-31:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "com.noeliawalterpro.miprimeraapp-merged_res-29:/layout_activity_main.xml.flat",
-        "source": "com.noeliawalterpro.miprimeraapp-main-31:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\noeli\\.gradle\\daemon\\8.0\\com.noeliawalterpro.miprimeraapp-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
@@ -46,6 +46,10 @@
     {
         "merged": "C:\\Users\\noeli\\.gradle\\daemon\\8.0\\com.noeliawalterpro.miprimeraapp-merged_res-29:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\noeli\\.gradle\\daemon\\8.0\\com.noeliawalterpro.miprimeraapp-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\noeli\\.gradle\\daemon\\8.0\\com.noeliawalterpro.miprimeraapp-merged_res-29:\\layout_activity_end.xml.flat",
+        "source": "C:\\Users\\noeli\\.gradle\\daemon\\8.0\\com.noeliawalterpro.miprimeraapp-main-31:\\layout\\activity_end.xml"
     },
     {
         "merged": "C:\\Users\\noeli\\.gradle\\daemon\\8.0\\com.noeliawalterpro.miprimeraapp-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
