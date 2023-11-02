@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable back
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_end
+id textView
+id textView2
+layout activity_end
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string action
+string app_name
+string description
+style Base.Theme.MiPrimeraApp
+style Theme.MiPrimeraApp
+xml backup_rules
+xml data_extraction_rules
