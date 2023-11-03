@@ -1384,6 +1384,7 @@ int color foreground_material_dark 0x7f05005a
 int color foreground_material_light 0x7f05005b
 int color highlighted_text_material_dark 0x7f05005c
 int color highlighted_text_material_light 0x7f05005d
+int color ic_launcher_background 0x7f05027f
 int color m3_appbar_overlay_color 0x7f05005e
 int color m3_assist_chip_icon_tint_color 0x7f05005f
 int color m3_assist_chip_stroke_color 0x7f050060
@@ -2765,6 +2766,8 @@ int drawable material_ic_keyboard_arrow_previous_black_24dp 0x7f0700a7
 int drawable material_ic_keyboard_arrow_right_black_24dp 0x7f0700a8
 int drawable material_ic_menu_arrow_down_black_24dp 0x7f0700a9
 int drawable material_ic_menu_arrow_up_black_24dp 0x7f0700aa
+int drawable mecadesign3d 0x7f0700e0
+int drawable mecadesign3d2 0x7f0700e1
 int drawable mtrl_bottomsheet_drag_handle 0x7f0700ab
 int drawable mtrl_checkbox_button 0x7f0700ac
 int drawable mtrl_checkbox_button_checked_unchecked 0x7f0700ad
@@ -3038,6 +3041,7 @@ int id ifRoom 0x7f0800d6
 int id ignore 0x7f0800d7
 int id ignoreRequest 0x7f0800d8
 int id image 0x7f0800d9
+int id imageView 0x7f0801f6
 int id immediateStop 0x7f0800da
 int id included 0x7f0800db
 int id indeterminate 0x7f0800dc
@@ -3505,6 +3509,7 @@ int layout select_dialog_multichoice_material 0x7f0b0067
 int layout select_dialog_singlechoice_material 0x7f0b0068
 int layout support_simple_spinner_dropdown_item 0x7f0b0069
 int mipmap ic_launcher 0x7f0d0000
+int mipmap ic_launcher_foreground 0x7f0d0002
 int mipmap ic_launcher_round 0x7f0d0001
 int plurals mtrl_badge_content_description 0x7f0e0000
 int string abc_action_bar_home_description 0x7f0f0000
