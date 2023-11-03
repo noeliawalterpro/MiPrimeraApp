@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiPrimeraApp</string>
+    <!---AST Init -->
+    <string name="description">Vamos a la siguiente página</string>
+    <string name="action">Click</string>
+    <!---AST Login -->
+</resources>
