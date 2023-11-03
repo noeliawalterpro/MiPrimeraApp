@@ -1,15 +1,21 @@
 R_DEF: Internal format may change without notice
 local
 color black
+color ic_launcher_background
 color white
 drawable back
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-id button
+drawable mecadesign3d
+drawable mecadesign3d2
+id btn_end
+id imageView
 id textView
 id textView2
+layout activity_end
 layout activity_main
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string action
 string app_name

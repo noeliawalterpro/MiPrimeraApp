@@ -1385,6 +1385,7 @@ color foreground_material_dark
 color foreground_material_light
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color ic_launcher_background
 color m3_appbar_overlay_color
 color m3_assist_chip_icon_tint_color
 color m3_assist_chip_stroke_color
@@ -2766,6 +2767,8 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+drawable mecadesign3d
+drawable mecadesign3d2
 drawable mtrl_bottomsheet_drag_handle
 drawable mtrl_checkbox_button
 drawable mtrl_checkbox_button_checked_unchecked
@@ -2918,7 +2921,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id button
+id btn_end
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3039,6 +3042,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id immediateStop
 id included
 id indeterminate
@@ -3426,6 +3430,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_end
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -3505,6 +3510,7 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
